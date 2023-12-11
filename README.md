@@ -1,7 +1,7 @@
 ### Hello World  🌐
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje eu trabalho com qualidade, fazendo testes no banco de dados
 - ⚡ Estudando .NET
 - 😄 Pronouns: ela/dela
 
