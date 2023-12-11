@@ -20,5 +20,5 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div>
-  ![snake gif](https://github.com/midnight1thais/midnight1thais/blob/main/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/midnight1thais/midnight1thais/blob/output/github-contribution-grid-snake.svg)
 </div>
