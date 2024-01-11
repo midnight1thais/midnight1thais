@@ -19,7 +19,10 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  ![Snake animation](https://github.com/midnight1thais/midnight1thais/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake Animation: Exibe uma animação de "cobra" no perfil do GitHub. -->
+<!-- ![Snake animation](https://github.com/midnight1thais/midnight1thais/blob/output/github-contribution-grid-snake.svg) -->
 
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=midnight1thais&repo=midnight1thais&theme=react}](https://github.com/midnight1thais/midnight1thais)
+<!-- Readme Stats: Cria um link para exibir as estatísticas do repositório "midnight1thais" no GitHub. -->
+<!-- O tema "react" é aplicado ao estilo das estatísticas. -->
+<!--[![readme](https://github-readme-stats.vercel.app/api/pin/?username=midnight1thais&repo=midnight1thais&theme=react)](https://github.com/midnight1thais/midnight1thais)-->
 </div>
